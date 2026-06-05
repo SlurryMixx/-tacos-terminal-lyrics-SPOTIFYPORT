@@ -1,5 +1,6 @@
 # -tacos-terminal-lyrics-SPOTIFYPORT
 THIS IS NOT AN ORINGIAL IDEA THIS IS A SPOTIFY PORT OF TACOPROZ1 LYRIC APP!!!!
+**This is NOT finished so exspect a lil bit of bugs**
 
 
 What Is This?
