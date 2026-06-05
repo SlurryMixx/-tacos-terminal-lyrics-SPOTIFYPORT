@@ -1,4 +1,5 @@
 [PLEASE READ]
+
 /\ /\ /\ /\ /\ /\ /\ /
 
 terminal lyrics visualizer for spotify. block font, fire particles during instrumentals, drug words go green, transparent background.
