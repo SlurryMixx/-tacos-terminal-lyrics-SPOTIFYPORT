@@ -1,5 +1,4 @@
 [PLEASE READ]
-
 /\ /\ /\ /\ /\ /\ /\ /
 
 terminal lyrics visualizer for spotify. block font, fire particles during instrumentals, drug words go green, transparent background.
@@ -132,6 +131,13 @@ do not edit anything below the config block unless you know what you're doing.
 non-mainstream songs sometimes don't have lyrics on lrclib. if you get a blank screen, the song just isn't in the database yet.
 
 volume detection uses `wpctl` (PipeWire) then falls back to `pactl`. if neither is found it pulses automatically.
+
+---
+
+## credits
+
+inspired by and built on top of [tacos-terminal-lyrics](https://github.com/tacoproz1/tacos-terminal-lyrics) by tacoproz1.
+font style, lrc tooling, and overall concept — all his. go check it out.
 
 ---
 
