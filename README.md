@@ -9,17 +9,25 @@ Terminal lyrics visualizer with word-level synchronization.
 Displays song lyrics in large ASCII block letters directly in your terminal while syncing them to whatever is currently playing in Spotify or another MPRIS-compatible media player.
 
 ██   ██ ███████ ██      ██       ██████
+
 ██   ██ ██      ██      ██      ██    ██
+
 ███████ █████   ██      ██      ██    ██
+
 ██   ██ ██      ██      ██      ██    ██
+
 ██   ██ ███████ ███████ ███████  ██████
 
 This project is heavily inspired by and based on concepts from the original lrc-tools project, adapted specifically for Spotify-focused usage and terminal lyric visualization.
 
-**Required
+**Required**
+
 Python >= 3.12
+
 pyyaml
+
 ffmpeg (provides ffprobe)
+
 playerctl**
 
 **Installation**
