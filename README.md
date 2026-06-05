@@ -18,7 +18,7 @@ pyyaml
 
 ffmpeg (provides ffprobe)
 
-playerctl**
+playerctl
 
 **Installation**
 Loki just install the file and drag it into your home folder and run "python3 lrcpop.py"
