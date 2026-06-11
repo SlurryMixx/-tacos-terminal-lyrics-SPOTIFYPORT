@@ -2,7 +2,7 @@
 
 /\ /\ /\ /\ /\ /\ /\ /
 
-terminal lyrics visualizer for spotify. block font, fire particles during instrumentals, drug words go green, transparent background.
+terminal lyrics visualizer for spotify. block font, fire particles during instrumentals, drug words go green (i found it a bit funny to add that), transparent background.
 
 ```
   ██      ██████   ██████ ██████   ██████  ██████
